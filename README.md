@@ -9,4 +9,4 @@ Fetches live weather data using the Open-Meteo API and `requests`.
 ```bash
 pip install requests
 python weathers.py
->>>>>>> 65c031b (Add live weather checker and README)
+
