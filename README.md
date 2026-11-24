@@ -12,12 +12,10 @@ A Python CLI script that fetches current weather conditions for any city using t
 1. **Install dependencies:**
    ```bash
    pip install requests
-   ```[cite: 7]
 
 2. **Run the script:**
    ```bash
    python weathers.py
-   ```[cite: 7]
 
 3. **Enter a city name** when prompted (for example, `Hyderabad`)[cite: 4, 7, 15].
 
